@@ -1,0 +1,327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"word",
+				"word_typing"
+			],
+			[
+				"COLOR",
+				"COLOR_GREEN"
+			],
+			[
+				"word_",
+				"word_typed"
+			],
+			[
+				"wor",
+				"words_typed"
+			],
+			[
+				"COLO",
+				"COLOR_PAIR"
+			],
+			[
+				"tex",
+				"text_win_height"
+			],
+			[
+				"po",
+				"popStack"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"setting",
+				"Preferences: Settings – Distraction Free"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				"ay",
+				"ayu: Activate theme"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"theme",
+				"Activate Materialize Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				":we",
+				":w - Save"
+			],
+			[
+				":e",
+				":e - Revert"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"auy",
+				"ayu: Activate theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 208.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ganther/Hithesh/Projects/C/evenOrOdd.c",
+		"/home/ganther/Hithesh/Projects/C/classStuff/file_trial.c",
+		"/home/ganther/Hithesh/Projects/C/TypingTest/trial.c",
+		"/home/ganther/Hithesh/Projects/C/ncurses/file_trial.c",
+		"/home/ganther/Hithesh/Projects/C/idkman.c",
+		"/home/ganther/Hithesh/Projects/C/ncurses/randomshit.c",
+		"/home/ganther/Hithesh/Projects/C/ncurses/demo.c",
+		"/home/ganther/Hithesh/Projects/C/ncurses/trial.c",
+		"/home/ganther/Hithesh/Projects/C/TypingTest/rand.txt",
+		"/home/ganther/Hithesh/Projects/C/TypingTest/trial",
+		"/home/ganther/Hithesh/Projects/C/trial.c",
+		"/home/ganther/Hithesh/Projects/C/ncurses/panel1.c",
+		"/home/ganther/Hithesh/Projects/C/ncurses/trial2.c",
+		"/home/ganther/ncurses_programs/JustForFun/tt.c",
+		"/home/ganther/Hithesh/Projects/C/ncurses/rand.txt",
+		"/home/ganther/Hithesh/Projects/C/classStuff/employee",
+		"/home/ganther/Hithesh/Projects/C/classStuff/dist.c",
+		"/home/ganther/.config/sublime-text/Packages/User/ayu-mirage.sublime-theme",
+		"/home/ganther/Hithesh/Projects/C/ncurses/demo",
+		"/home/ganther/Hithesh/Projects/C/classStuff/pattern.c",
+		"/home/ganther/Hithesh/Projects/C/classStuff/sq.c",
+		"/home/ganther/Hithesh/Projects/C/classStuff/countNum.c",
+		"/home/ganther/Hithesh/Projects/C/classStuff/occurance.c",
+		"/home/ganther/Hithesh/Projects/C/classStuff/str.c",
+		"/home/ganther/Hithesh/Projects/C/classStuff/t.c",
+		"/home/ganther/Hithesh/Projects/C/classStuff/rev.c",
+		"/home/ganther/Hithesh/Projects/C/classStuff/fibo.c",
+		"/home/ganther/Hithesh/Projects/C/pattern.c",
+		"/home/ganther/Hithesh/Projects/C/cat.c",
+		"/home/ganther/Hithesh/Projects/C/trial",
+		"/home/ganther/Hithesh/Projects/Javascript/my-app/src/index.css",
+		"/home/ganther/Hithesh/Projects/Javascript/my-app/src/index.js",
+		"/home/ganther/Hithesh/Projects/C/test.c",
+		"/home/ganther/Hithesh/Projects/Javascript/counter-app/src/components/counter.jsx",
+		"/home/ganther/Hithesh/Projects/Javascript/counter-app/src/index.js",
+		"/home/ganther/testing/test_1.py",
+		"/home/ganther/.themes/Palenight-GS/gnome-shell/gnome-shell.css",
+		"/home/ganther/trial.c",
+		"/home/ganther/t.py",
+		"/home/ganther/Hithesh/Projects/python/Mozart/mozart.py",
+		"/home/ganther/Hithesh/bookmarks.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "a.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"trial",
+				"~/Hithesh/Projects/C/trial.c"
+			],
+			[
+				"component.jsx",
+				"src/components/counter.jsx"
+			],
+			[
+				"index.js",
+				"src/index.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 366.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
